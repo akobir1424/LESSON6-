@@ -1,0 +1,84 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Alisher",
+        "lastname": "Alisherov",
+        "age": "22",
+        "group": "18",
+        "teacher": "Frontend"
+      },
+      {
+        "id": "2",
+        "name": "Fayzullo",
+        "lastname": "Abdujalilov",
+        "age": "25",
+        "group": "22",
+        "teacher": "BeckEnd"
+      },
+      {
+        "id": "3",
+        "name": "Doston",
+        "lastname": "Dostonov",
+        "age": "29",
+        "group": "20",
+        "teacher": "FullStack"
+      },
+      {
+        "id": "4",
+        "name": "Abbos",
+        "lastname": "Abbosov",
+        "age": "20",
+        "group": "15",
+        "teacher": "SMM"
+      },
+      {
+        "id": "5",
+        "name": "Ravshan",
+        "lastname": "Ravshanov",
+        "age": "30",
+        "group": "10",
+        "teacher": "Pyton"
+      },
+      {
+        "id": "6",
+        "name": "Otabek",
+        "lastname": "Otabekov",
+        "age": "44",
+        "group": "8",
+        "teacher": "Dizayner"
+      },
+      {
+        "id": "7",
+        "name": "Sherzod",
+        "lastname": "Sherzodov",
+        "age": "42",
+        "group": "7",
+        "teacher": "QA"
+      },
+      {
+        "id": "8",
+        "name": "Abdullo",
+        "lastname": "Muxtarov",
+        "age": "27",
+        "group": "6",
+        "teacher": "NodeJS"
+      },
+      {
+        "id": "9",
+        "name": "Temur",
+        "lastname": "Temurov",
+        "age": "33",
+        "group": "5",
+        "teacher": "Frontend"
+      },
+      {
+        "id": "10",
+        "name": "Shahzod",
+        "lastname": "Shahzodov",
+        "age": "37",
+        "group": "4",
+        "teacher": "FullStack"
+      }
+    ]
+  }
